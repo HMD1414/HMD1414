@@ -32,9 +32,9 @@ fun main() {
     val mobileMentors  = arrayOf("Reza Kurniawan","Raihan Zhaky","Reynaldi", "Nabila Putri Syafarina Bukka","Rahmad Noor Ikhsan"
     )
     //--cara 1 primitive metod//
-    mobileMentors[1] = "Raihan Zhaky Al-Hafizh"
+    mobileMentors[1] = "Raihan Zhaky Top Global"
     //--cara 2//
-    mobileMentors.set(1,"Raihan Zhaky Al-Hafizh")
+    mobileMentors.set(1,"Raihan Zhaky Top Global")
 
     //--silakan cari//
     println(mobileMentors[1])
